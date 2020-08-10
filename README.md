@@ -1,5 +1,4 @@
-
-#  Clima
+# Clima
 
 
 ## About the app
